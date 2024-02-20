@@ -1,4 +1,4 @@
-##CZ
+## CZ:
 # VEX IQ Python
 
 Tento repozitář obsahuje kód napsaný v jazyce Python pro roboty VEX IQ. Jedná se zejména o implementaci různých algoritmů pro sledování čáry a vyhýbání se překážkám.
@@ -12,7 +12,7 @@ Ve složce `linefollower` se nachází kód pro robota, který je schopen sledov
 Ve složce `bezpecny_navigator` je kód pro robota, který se využívá svoje senzory, aby nenarazil ani zepředu a ani zezadu.
 
 
-##EN:
+## EN:
 # VEX IQ Python
 
 This repository contains code written in Python for VEX IQ robots. It is mainly an implementation of various line following and obstacle avoidance algorithms.
