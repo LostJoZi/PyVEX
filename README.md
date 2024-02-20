@@ -24,6 +24,3 @@ The `linefollower` folder contains code for a robot that is able to follow a bla
 ## Safe navigator
 
 In the `safe_navigator` folder is code for a robot that uses its sensors to avoid being hit from the front or the back.
-
-
-Translated with DeepL.com (free version)
